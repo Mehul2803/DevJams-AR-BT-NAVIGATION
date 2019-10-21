@@ -1,0 +1,2 @@
+# DevJams-AR-BT-NAVIGATION
+In this project we are using RSSI method to find the signal strength and using that we will try to find that which direction the Person should move in order to reach its desired location. The data received from the bluetooth and sensors are them given to Unity using Firebase. Here in UNity we tried to deploy a Augmented Reality spacecraft which will guide the person the way. The person just needs to follow the aircraft to reach its final position.
